@@ -6,7 +6,6 @@ I'm a Software Developer based in Turkey, currently focusing on building robust 
 
 ### 🚀 About Me
 
-- 🎓 Studying **Computer Programming** at Bursa Uludağ University (2025 - 2027).
 - 💻 Passionate about **Backend Development**, clean code, and database management.
 - ⚙️ Currently working on **microservices architectures**, design patterns, global exception handling, and database relations.
 - 💬 Open to collaborations, internships, and professional opportunities.
