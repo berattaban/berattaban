@@ -35,15 +35,6 @@ With a strong foundation in backend development, here are the technologies and t
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=berattaban&show_icons=true&theme=tokyonight&count_private=true" alt="Berat's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berattaban&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 Let's connect and build something awesome together!
