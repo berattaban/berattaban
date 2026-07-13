@@ -1,6 +1,6 @@
 # Hi there, I'm Berat! 👋
 
-I'm a Software Developer based in Turkey, currently focusing on building robust backend systems, practicing modern software architectures, and learning new technologies.
+I'm a Java Developer based in Turkey, currently focusing on building robust backend systems, practicing modern software architectures, and learning new technologies.
 
 ---
 
