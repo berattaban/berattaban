@@ -40,7 +40,7 @@ With a strong foundation in backend development, here are the technologies and t
 Let's connect and build something awesome together!
 
 <p align="left">
-  <a href="https://linkedin.com/in/berattaban](https://www.linkedin.com/in/berat-t-2b5a2b39b/" target="_blank">
+  <a href="https://www.linkedin.com/in/berat-t-2b5a2b39b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:berattaban.dev@gmail.com">
