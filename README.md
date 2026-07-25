@@ -6,7 +6,7 @@ I'm a Java Developer based in Turkey, currently focusing on building robust back
 
 ### 🚀 About Me
 
-- 💻 Passionate about **Backend Development**, clean code, and database management.
+- 💻 Passionate about **FullStack Development**, clean code, and database management.
 - ⚙️ Currently working on **microservices architectures**, design patterns, global exception handling, and database relations.
 - 💬 Open to collaborations, internships, and professional opportunities.
 
