@@ -7,7 +7,7 @@ I'm a Java FullStack Developer based in Turkey, currently focusing on building r
 ### 🚀 About Me
 
 - 💻 Passionate about ** Java FullStack Development**, clean code, and database management.
-- ⚙️ Currently working on **microservices architectures**, design patterns, global exception handling, and database relations.
+- ⚙️ Currently working on **microservices architectures**, design patterns and database relations.
 - 💬 Open to collaborations, internships, and professional opportunities.
 
 ---
