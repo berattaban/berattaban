@@ -1,12 +1,12 @@
 # Hi there, I'm Berat! 👋
 
-I'm a Java FullStack Developer based in Turkey, currently focusing on building robust backend systems, practicing modern software architectures, and learning new technologies.
+I'm a Java Full Stack Developer based in Turkey, currently focusing on building robust backend systems, practicing modern software architectures, and learning new technologies.
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Passionate about ** Java FullStack Development**, clean code, and database management.
+- 💻 Passionate about ** Java Full Stack Development**, clean code, and database management.
 - ⚙️ Currently working on **microservices architectures**, design patterns and database relations.
 - 💬 Open to collaborations, internships, and professional opportunities.
 
